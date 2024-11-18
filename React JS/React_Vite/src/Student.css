@@ -1,0 +1,14 @@
+.id_card{
+    border: 10px solid;
+    height: 300px;
+    width: 500px;
+    background-color: turquoise;
+    color: slateblue;
+    padding: 30px;
+    
+}
+
+.id_card table,td,th{
+    border: 2px solid;
+    padding: 5px;   
+}
