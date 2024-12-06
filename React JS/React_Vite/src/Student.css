@@ -1,14 +1,17 @@
 .id_card{
     border: 10px solid;
-    height: 300px;
-    width: 500px;
-    background-color: turquoise;
+    height: 500px;
+    width: 450px;
+    background-color: rgb(230, 215, 225);
     color: slateblue;
     padding: 30px;
     
 }
 
-.id_card table,td,th{
-    border: 2px solid;
-    padding: 5px;   
+.id_card table,tr,td,th{
+    /* border: 2px solid; */
+    padding: 2px;
+    display: flex;
+    flex-direction: column;
 }
+
